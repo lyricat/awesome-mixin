@@ -3,7 +3,7 @@
 A list of awesome things related to [Mixin Network](https://github.com/MixinNetwork)
 
 
-- [Official Resources](#official-resources)
+- [Resources](#resources)
   - [Developer Portal](#developer-portal)
   - [Documents](#documents)
   - [Tutorials](#tutorials)
@@ -24,7 +24,7 @@ A list of awesome things related to [Mixin Network](https://github.com/MixinNetw
 
 <!-- md-parser-start -->
 
-## Official Resources
+## Resources
 
 ### Developer Portal
 
