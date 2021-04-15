@@ -5,7 +5,7 @@ A list of awesome things related to [Mixin Network](https://github.com/MixinNetw
 
 - [Official Resources](#official-resources)
   - [Developer Portal](#developer-portal)
-  - [Developer Documents](#developer-documents)
+  - [Documents](#documents)
   - [Tutorials](#tutorials)
   - [Examples](#examples)
   - [Blog Posts](#blog-posts)
@@ -31,7 +31,9 @@ A list of awesome things related to [Mixin Network](https://github.com/MixinNetw
 - [Mixin Developer](https://developers.mixin.one/) is the official portal for Mixin Network developers. 
 - [Developer Dashboard](https://developers.mixin.one/dashboard) is a dashboard to manage dApps based on Mixin Network.
 
-### Developer Document
+### Documents
+
+...
 
 ### Tutorial
 
