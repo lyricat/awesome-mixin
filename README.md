@@ -13,7 +13,7 @@ A list of awesome things related to [Mixin Network](https://github.com/MixinNetw
 - [SDK](#sdk)
   - [Official SDK](#official-sdk)
   - [3rd-party SDK](#3rd-party-sdk)
-	- [Related Libraries and SDKs](#related-libraries)
+  - [Related Libraries and SDKs](#related-libraries)
 - [Stand-alone Wallets](#stand-alone-wallets)
 - [Projects Using Mixin](#projects-using-mixin)
   - [ETF](#etf)
@@ -69,7 +69,7 @@ Except stand-alone APIs, Mixin core team also provides several SDKs as a simplif
 - [Mixin_bot (Ruby)](https://github.com/an-lee/mixin_bot) - A simple API wrapper for Mixin Network in Ruby, used in Prsdigg.
 - [Mixin JS Bridge](https://github.com/fox-one/mixin-sdk-jsbridge) - A jsbridge wrapper for Mixin Messenger, make a bridge between your javascript and the Webview of Mixin Messenger, provides a convenient way to call Messenger's code from your webpage or SPA.
 
-## Related Libraries
+### Related Libraries
 
 - [4swap SDK](https://github.com/fox-one/4swap-sdk-go) - A SDK designed to help you make your dApps that interact with 4swap. You can get market information, place order, add or remove liquidity from 4swap with it.
 - [fennec-asp](https://github.com/fox-one/fennec-asp) - An open source account service provider.
