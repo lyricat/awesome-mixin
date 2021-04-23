@@ -100,7 +100,7 @@ Except stand-alone APIs, Mixin core team also provides several SDKs as a simplif
 
 ### Exchange
 
-- [Exin.One](https://exin.one) - A aggregated exchange service provided by Exin.
+- [Exin.One](https://exin.one) - An aggregated exchange service provided by Exin.
 - [Big.ONE](https://big.one) - A digital asset trading and trusteeship platform, which integrated with the wallet of Mixin Messenger.
 
 ### Publishing 
