@@ -102,10 +102,12 @@ Except stand-alone APIs, Mixin core team also provides several SDKs as a simplif
 
 - [Exin.One](https://exin.one) - An aggregated exchange service provided by Exin.
 - [Big.ONE](https://big.one) - A digital asset trading and trusteeship platform, which integrated with the wallet of Mixin Messenger.
+- [Option Dance](https://option.dance/) - An option exchange on Mixin(Chinese).
 
 ### Publishing 
 
-- [Prsdigg](https://prsdigg.com) - A win-win content publishing platform for both authors and readers.
+- [Prsdigg](https://prsdigg.com) - A win-win content publishing platform for both authors and readers (Chinese).
+- [W3C Group](https://w3c.group/) - A content platform (Chinese).
 
 ### Others
 
