@@ -37,6 +37,8 @@ A list of awesome things related to [Mixin Network](https://github.com/MixinNetw
 
 ### Tutorial
 
+- [A Quick Glance into Mixin Development](https://gitpress.io/@lyric/a-quick-glance-into-mixin-development)
+- [Top 10 Most Common Mistakes That Mixin Developers Make](https://gitpress.io/@lyric/top-10-most-common-mistakes-that-mixin-developers-make)
 - [Run Mixin Kernel Node to Sync All Snapshots](https://github.com/MixinNetwork/developers.mixin.one/blob/main/developers/src/i18n/en/document/mainnet/tutorials/sync-full-node.md) - the basic instructions to run a Mixn Network node and sync snapshots from the mainnet.
 
 ### Examples
