@@ -38,6 +38,7 @@ A list of awesome things related to [Mixin Network](https://github.com/MixinNetw
 
 - [A Quick Glance into Mixin Development](https://gitpress.io/@lyric/a-quick-glance-into-mixin-development)
 - [Mixin bot development tutorial 1 - Run a bot from scratch](https://gitpress.io/@lyric/mixin-bot-development-tutorial-1-run-a-bot-from-scratch)
+- [Mixin Bot Development Tutorial 2 - Interact with Users](https://gitpress.io/@lyric/mixin-bot-development-tutorial-2-interact-with-users)
 - [Run Mixin Kernel Node to Sync All Snapshots](https://github.com/MixinNetwork/developers.mixin.one/blob/main/developers/src/i18n/en/document/mainnet/tutorials/sync-full-node.md) - the basic instructions to run a Mixn Network node and sync snapshots from the mainnet.
 
 ### Examples
