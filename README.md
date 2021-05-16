@@ -92,9 +92,10 @@ Except stand-alone APIs, Mixin core team also provides several SDKs as a simplif
 
 ## Projects Using Mixin
 
-### ETF
+### Finance Service
 
 - [B.watch](https://b.watch/) - A decentralized ETF creation/redemption platform, the only place to subscribe BOX.
+- [Pando](https://pando.im) - A decentralized finance service which provides a set of algorithmic finance protocols.
 
 ### AMM
 
