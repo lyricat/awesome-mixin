@@ -108,6 +108,11 @@ Except stand-alone APIs, Mixin core team also provides several SDKs as a simplif
 - [Big.ONE](https://big.one) - A digital asset trading and trusteeship platform, which integrated with the wallet of Mixin Messenger.
 - [Option Dance](https://option.dance/) - An option exchange on Mixin(Chinese).
 
+### Multisignature Wallets
+
+- [CoWallet](https://github.com/fox-one/cowallet) - An opensource cooperative crypto wallet on Mixin Network, built by Fox.ONE.
+- [Multisig-bot](https://github.com/MixinNetwork/multisig-bot) - A client only bot to demonstrate the multisig feature of Mixin Messenger.
+
 ### Publishing
 
 - [Prsdigg](https://prsdigg.com) - A win-win content publishing platform for both authors and readers (Chinese).
